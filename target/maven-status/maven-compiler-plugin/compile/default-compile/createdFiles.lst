@@ -1,0 +1,13 @@
+skccuser\AbstractEvent.class
+skccuser\Customerpage.class
+skccuser\CustomerpageViewHandler.class
+skccuser\config\kafka\KafkaProcessor.class
+skccuser\CustomerpageRepository.class
+skccuser\AbstractEvent$1.class
+skccuser\StatusviewApplication.class
+skccuser\Ordered.class
+skccuser\DeliveryCanceled.class
+skccuser\Shipped.class
+skccuser\OrderCancelled.class
+skccuser\PolicyHandler.class
+skccuser\Paid.class
